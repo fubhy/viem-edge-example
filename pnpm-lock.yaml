@@ -3,10 +3,10 @@ lockfileVersion: 5.4
 specifiers:
   typescript: ^5.0.4
   vercel: ^28.18.5
-  viem: 0.0.0-edge-20230414044328
+  viem: 0.0.0-edge-20230414100908
 
 dependencies:
-  viem: 0.0.0-edge-20230414044328_typescript@5.0.4
+  viem: 0.0.0-edge-20230414100908_typescript@5.0.4
 
 devDependencies:
   typescript: 5.0.4
@@ -6365,8 +6365,8 @@ packages:
       vfile-message: 3.1.4
     dev: true
 
-  /viem/0.0.0-edge-20230414044328_typescript@5.0.4:
-    resolution: {integrity: sha512-LYiKfSixm0Pv2LORfollITn+ZYfYfObPwpKgu8FimQ2d9NFZmbhngCzrNKDvqUMzDHpY4IjUAowORdVGLEwmPg==}
+  /viem/0.0.0-edge-20230414100908_typescript@5.0.4:
+    resolution: {integrity: sha512-xK+7rUSMh+PmAzdaOhCqzhiEUh+2c84MHVrogJIoVOGlCTXCdBljtdpWmXr9k4zcejrnx3O7A+hBDk66/nvIaA==}
     dependencies:
       '@adraffy/ens-normalize': 1.9.0
       '@noble/curves': 0.9.0

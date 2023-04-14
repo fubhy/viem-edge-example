@@ -1,7 +1,7 @@
 {
   "private": true,
   "dependencies": {
-    "viem": "0.0.0-edge-20230414044328"
+    "viem": "0.0.0-edge-20230414100908"
   },
   "devDependencies": {
     "typescript": "^5.0.4",
