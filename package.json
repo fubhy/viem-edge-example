@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "viem": "0.0.0-edge-20230414044328"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4",
+    "vercel": "^28.18.5"
+  }
+}
