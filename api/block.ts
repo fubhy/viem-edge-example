@@ -19,6 +19,10 @@ export default async (request: Request) => {
 
   return new Response(stringify(block), {
     status: 200,
+    headers: {
+      "Content-Type": "application/json",
+      "Cache-Control": "s-maxage=60",
+    },
   });
 };
 
